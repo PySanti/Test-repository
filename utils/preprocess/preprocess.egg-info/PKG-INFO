@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: preprocess
+Version: 0.4.14
+Summary: Creada para lidiar con responsabilidades comunes en el preprocesamiento de datos para ML.
+Author: PySanti
+Author-email: santiagodeandrade4@gmail.com
+License: MIT
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: summary
